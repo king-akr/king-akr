@@ -77,7 +77,7 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔹 **Zeroda Clone** – Trading web app
+- 🔹 **Zerodha Clone** – Trading web app
   `React` · `Node` · `MongoDB`
 
 ---
