@@ -20,7 +20,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🧠 I turn ideas into reliable, user-friendly apps.
+- 🧠 I turn ideas into reliable, user-friendly Product.
 - 🔭 Exploring **MERN and competitive programming**.
 - 🤝 Open to collaborating on open-source.
 - 📫 Reach me: **theaaashurana@gmail.com** 
