@@ -23,7 +23,7 @@
 - 🧠 I turn ideas into reliable, user-friendly apps.
 - 🔭 Exploring **MERN and competitive programming**.
 - 🤝 Open to collaborating on open-source.
-- 📫 Reach me: **theaaashurana@gmail.com** *(replace with yours)*
+- 📫 Reach me: **theaaashurana@gmail.com** 
 
 ---
 
