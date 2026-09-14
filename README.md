@@ -74,13 +74,6 @@
   </a>
 </div>
 
----
-
-## 🚀 Featured Projects
-- 🔹 **Zerodha Clone** – Trading web app
-  `React` · `Node` · `MongoDB`
-
----
 
 ## 📨 Connect
 <p>
